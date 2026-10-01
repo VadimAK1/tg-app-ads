@@ -1,6 +1,6 @@
 {
   "banner_id": 1,
-  "image_url": "https://raw.githubusercontent.com/VadimAK1/tg-app-ads/refs/heads/main/ads.json",
+  "image_url": "banners/telega_in_big_720_405.png",
   "target_url": "https://t.me",
   "frequency": 3
 }
