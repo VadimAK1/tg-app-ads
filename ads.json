@@ -1,6 +1,84 @@
-{
-  "banner_id": 1,
-  "image_url": "banners/telega_in_big_720_405.png",
-  "target_url": "https://t.me",
-  "frequency": 3
+{   
+    "languages": {
+        "ru":{
+            "size":{ 
+                "big":{
+                    "image_url"  : "https://github.com/VadimAK1/tg-app-ads/blob/main/banners/telega_in_big_720_405.png?raw=true",
+                    "target_url" : "https://telega.io/?r=aMWKQimNJVj",
+                    "filename"   : "telega_in_big_720_405",
+                    "frequency"  : 3
+                },
+                "small":{
+                    "image_url"  : "https://github.com/VadimAK1/tg-app-ads/blob/main/banners/telega_in_small_720_100.png?raw=true",
+                    "target_url" : "https://telega.io/?r=aMWKQimNJVj",
+                    "filename"   : "telega_in_small_720_100",
+                    "frequency"  : 3
+                }
+            }
+        },
+        "en":{
+            "size":{ 
+                "big":{
+                    "image_url"  : "https://github.com/VadimAK1/tg-app-ads/blob/main/banners/telega_in_big_720_405.png?raw=true",
+                    "target_url" : "https://telega.io/?r=aMWKQimNJVj",
+                    "filename"   : "telega_in_big_720_405",
+                    "frequency"  : 3
+                },
+                "small":{
+                    "image_url"  : "https://github.com/VadimAK1/tg-app-ads/blob/main/banners/telega_in_small_720_100.png?raw=true",
+                    "target_url" : "https://telega.io/?r=aMWKQimNJVj",
+                    "filename"   : "telega_in_small_720_100",
+                    "frequency"  : 3
+                }
+            }
+        },
+        "de":{
+            "size":{ 
+                "big":{
+                    "image_url"  : "https://github.com/VadimAK1/tg-app-ads/blob/main/banners/telega_in_big_720_405.png?raw=true",
+                    "target_url" : "https://telega.io/?r=aMWKQimNJVj",
+                    "filename"   : "telega_in_big_720_405",
+                    "frequency"  : 3
+                },
+                "small":{
+                    "image_url"  : "https://github.com/VadimAK1/tg-app-ads/blob/main/banners/telega_in_small_720_100.png?raw=true",
+                    "target_url" : "https://telega.io/?r=aMWKQimNJVj",
+                    "filename"   : "telega_in_small_720_100",
+                    "frequency"  : 3
+                }
+            }
+        },
+        "es":{
+            "size":{ 
+                "big":{
+                    "image_url"  : "https://github.com/VadimAK1/tg-app-ads/blob/main/banners/telega_in_big_720_405.png?raw=true",
+                    "target_url" : "https://telega.io/?r=aMWKQimNJVj",
+                    "filename"   : "telega_in_big_720_405",
+                    "frequency"  : 3
+                },
+                "small":{
+                    "image_url"  : "https://github.com/VadimAK1/tg-app-ads/blob/main/banners/telega_in_small_720_100.png?raw=true",
+                    "target_url" : "https://telega.io/?r=aMWKQimNJVj",
+                    "filename"   : "telega_in_small_720_100",
+                    "frequency"  : 3
+                }
+            }
+        },
+        "pl":{
+            "size":{ 
+                "big":{
+                    "image_url"  : "https://github.com/VadimAK1/tg-app-ads/blob/main/banners/telega_in_big_720_405.png?raw=true",
+                    "target_url" : "https://telega.io/?r=aMWKQimNJVj",
+                    "filename"   : "telega_in_big_720_405",
+                    "frequency"  : 3
+                },
+                "small":{
+                    "image_url"  : "https://github.com/VadimAK1/tg-app-ads/blob/main/banners/telega_in_small_720_100.png?raw=true",
+                    "target_url" : "https://telega.io/?r=aMWKQimNJVj",
+                    "filename"   : "telega_in_small_720_100",
+                    "frequency"  : 3
+                }
+            }
+        }
+    }
 }
