@@ -4,13 +4,13 @@
             "size":{ 
                 "big":{
                     "image_url"  : "https://github.com/VadimAK1/tg-app-ads/blob/main/banners/telega_in_big_720_405.png?raw=true",
-                    "target_url" : "https://telega.io/?r=aMWKQimNJVj",
+                    "target_url" : "https://downsub.com/",
                     "filename"   : "telega_in_big_720_405",
                     "frequency"  : 3
                 },
                 "small":{
                     "image_url"  : "https://github.com/VadimAK1/tg-app-ads/blob/main/banners/telega_in_small_720_100.png?raw=true",
-                    "target_url" : "https://telega.io/?r=aMWKQimNJVj",
+                    "target_url" : "https://translate.google.com.ua/?sl=ru&tl=en&op=translate",
                     "filename"   : "telega_in_small_720_100",
                     "frequency"  : 3
                 }
@@ -20,13 +20,13 @@
             "size":{ 
                 "big":{
                     "image_url"  : "https://github.com/VadimAK1/tg-app-ads/blob/main/banners/telega_in_big_720_405.png?raw=true",
-                    "target_url" : "https://telega.io/?r=aMWKQimNJVj",
+                    "target_url" : "https://duckduckgo.com/",
                     "filename"   : "telega_in_big_720_405",
                     "frequency"  : 3
                 },
                 "small":{
                     "image_url"  : "https://github.com/VadimAK1/tg-app-ads/blob/main/banners/telega_in_small_720_100.png?raw=true",
-                    "target_url" : "https://telega.io/?r=aMWKQimNJVj",
+                    "target_url" : "https://www.php.net/manual/ru/index.php",
                     "filename"   : "telega_in_small_720_100",
                     "frequency"  : 3
                 }
