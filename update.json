@@ -1,4 +1,11 @@
 {
-  "version": "1.3.0",
-  "url": "https://apps.microsoft.com/detail/..."
+  "version": "1.0.0",
+  "url": "https://apps.microsoft.com/detail/XXXXXXXX",
+  "notes": {
+    "en": "Bug fixes and performance improvements.",
+    "ru": "Исправлены ошибки и улучшена производительность.",
+    "es": "Corrección de errores y mejoras de rendimiento.",
+    "de": "Fehlerbehebungen und Leistungsverbesserungen.",
+    "pl": "Poprawki błędów i ulepszenia wydajności."
+  }
 }
